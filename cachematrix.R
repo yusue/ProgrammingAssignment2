@@ -5,6 +5,9 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+  #this is the start of yusue's function.
+  
+  
 }
 
 
